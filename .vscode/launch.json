@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "debugpy",
+            "module": "uvicorn",
+            "args": [
+                "--app-dir",
+                "/app/backend/",
+                "--host",
+                "localhost",
+                "main:app",
+                "--reload",
+                "--access-log",
+            ],
+            "name": "ProductDash Server",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/app/backend",
+            "env": {},
+        }
+    ],
+}
