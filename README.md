@@ -1,6 +1,6 @@
 ### **I'm not lazy, I'm just a little lost...**
 
-I have goals and good intentions, but you lack the structure or mental clarity to make consistent progress—especially after long workdays. That "gap" between what you want to do and what actually gets done is where this dashboard fits in.
+I have goals and good intentions, but I lack the structure or mental clarity to make consistent progress—especially after long workdays. That "gap" between what I want to do and what actually gets done is where this dashboard fits in.
 
 ### **The Problem**
 
@@ -40,9 +40,7 @@ For each goal, I’ll provide:
 
 Example:
 
-> **Goal:** Grow as a software engineer
-> **Time Commitment:** 5 hours
-> **Description:** Focus on problem solving and backend system concepts.
+**Goal:** Grow as a software engineer **Time Commitment:** 5 hours **Description:** Focus on problem solving and backend system concepts.
 
 ---
 
