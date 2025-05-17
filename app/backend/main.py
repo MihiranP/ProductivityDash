@@ -2,6 +2,7 @@ import uvicorn
 from fastapi import FastAPI, APIRouter
 from fastapi.middleware.cors import CORSMiddleware
 from utils.logger import app_logger
+from data.database import db
 
 app = FastAPI(title="ProductivityDash", version="0.0.0.1")
 app.add_middleware(
