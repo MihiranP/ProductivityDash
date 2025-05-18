@@ -1,0 +1,13 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main {
+    flex: 1;
+    padding-top: 64px;
+    /* Height of the header */
+    background-color: var(--color-background);
+    min-height: calc(100vh - 64px);
+    transition: background-color 0.3s ease; }

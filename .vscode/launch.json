@@ -17,6 +17,13 @@
             "console": "integratedTerminal",
             "cwd": "${workspaceFolder}/app/backend",
             "env": {},
-        }
+        },
+        {
+            "name": "Run Frontend",
+            "type": "firefox",
+            "request": "launch",
+            "url": "http://localhost:5173",
+            "webRoot": "${workspaceFolder}/app/frontend"
+          }
     ],
 }
